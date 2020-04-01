@@ -16,4 +16,3 @@ Functions of HSB:
 9.Global music captured by robots, listen to it if you want. 
 10.Image processing tools comparable to Photoshop, polish each of your photos.
 11.Sliding page turning design. 
-12. Start your Https browsing tour! 
