@@ -1,8 +1,5 @@
 <?php
 ini_set('display_errors', '0');
-/*
-miniProxy - A simple PHP web proxy. <https://github.com/joshdick/miniProxy>
-*/
 
 /****************************** START CONFIGURATION ******************************/
 
