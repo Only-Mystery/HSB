@@ -2,7 +2,7 @@ HTTPS Browser | HTTPS浏览器
 -----------------------------------------
 
 **Q：What is HSB? **
-**A：HSB stands for HTTPS BROWSER. Is a lightweight, secure browser with a built-in proxy.**
+**A：HSB stands for HTTPS BROWSER. Is a lightweight, Secure Android Browser with a built-in proxy.**
 
 **Functions of HSB:**
 
